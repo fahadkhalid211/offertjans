@@ -74,3 +74,5 @@ ensured-page-offer-demands .dx-htmleditor .dx-htmleditor-toolbar-wrapper{
     box-shadow: none;
     border: 1px solid #122235;
 }
+.dx-datagrid-toolbar-button.dx-button.dx-button-normal.dx-widget{
+  background-color:#122235;
