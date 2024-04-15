@@ -76,3 +76,24 @@ ensured-page-offer-demands .dx-htmleditor .dx-htmleditor-toolbar-wrapper{
 }
 .dx-datagrid-toolbar-button.dx-button.dx-button-normal.dx-widget{
   background-color:#122235;
+}
+.dx-checkbox-icon{
+  border:2px solid #122235;
+}
+.dx-checkbox-checked .dx-checkbox-icon{
+    color: #fff;
+    background-color: #122235;
+    border: none;
+    font: 14px / 1em DXIcons;
+    text-align: center;
+}
+.dx-invalid .dx-slider-range-visible{
+  background-color:#122235;
+  border-color:#122235;
+}
+.dx-invalid .dx-slider-handle:after{
+  background-color:#122235;
+}
+.dx-invalid .dx-slider-bar{
+  backgound-color:#5fafaf;
+}
