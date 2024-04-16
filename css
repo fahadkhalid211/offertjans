@@ -25,13 +25,15 @@ border-top-left-radius:0px;
 ensured-page-offer-demands .dx-tab{
   padding:15px 25px;}
 ensured-page-offer-demands .dx-tab.dx-tab-selected{
-  background-color: #122235;
-    color: #5fafb0;
+  background-color: #5fafaf;
+    color: #fff;
     border-radius: 200px;
 }
 ensured-page-offer-demands .dx-tabs-wrapper .dx-item.dx-tab:not(.dx-state-invisible)~.dx-item.dx-tab{
   border-top-left-radius: 100px;
     border-bottom-left-radius: 100px;
+  padding:20px;
+  background-color:#5fafaf;
 }
 .dx-tabpanel .dx-tab{
   min-width:220px;
@@ -77,6 +79,7 @@ ensured-page-offer-demands .dx-htmleditor .dx-htmleditor-toolbar-wrapper{
 .dx-datagrid-toolbar-button.dx-button.dx-button-normal.dx-widget{
   background-color:#122235;
 }
+
 .dx-checkbox-icon{
   border:2px solid #122235;
 }
